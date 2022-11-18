@@ -1,4 +1,3 @@
-### Hi there 👋
 ### I'm DreamAwakenFateBroke. 
 - 🔭 I’m currently working on Java development
 - 📫 How to reach me: ifGuestInDream@163.com
@@ -12,4 +11,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DreamAwakenFateBroke/count.svg" />
 </p>
-
