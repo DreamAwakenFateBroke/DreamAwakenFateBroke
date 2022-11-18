@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=#><img src="contributions.svg"></a>
+![github contribution grid snake animation](https://raw.githubusercontent.com/DreamAwakenFateBroke/DreamAwakenFateBroke/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/DreamAwakenFateBroke/DreamAwakenFateBroke/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center"> 
   Visitor count<br>
