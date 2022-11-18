@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DreamAwakenFateBroke/DreamAwakenFateBroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DreamAwakenFateBroke/count.svg" />
+</p>
+
